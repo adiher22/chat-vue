@@ -1,5 +1,5 @@
 # firechat-vue
-
+Aplikasi Chat dengan menggunakan vue js & firebase sebagai database
 ## Project setup
 ```
 npm install
